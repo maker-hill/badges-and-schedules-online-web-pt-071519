@@ -23,7 +23,7 @@ end
 
 def printer(array)
   array.each do |badge|
-    puts "Hello my name is #{badge}."
+    puts "Hello, my name is #{badge}."
   end 
   array.each do |room|
     puts room
